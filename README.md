@@ -23,9 +23,8 @@ Desarrollo Full Stack • Web • Mobile • UI/UX
 - React & Next.js
 - Spring Boot & Laravel
 - React Native
-- TailwindCSS
 - MySQL & SQL
-- Docker & Render
+- Docker, Render & Vercel
 
 📌 Actualmente desarrollando proyectos Full Stack y aplicaciones móviles.
 
@@ -105,13 +104,6 @@ Sistema Full Stack con intranet administrativa y aplicación móvil desarrollada
 <p align="center">
   <img 
     src="https://github-readme-stats.vercel.app/api?username=SH4M1R&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=SH4M1R&theme=tokyonight&hide_border=true"
     height="180"
   />
 </p>
