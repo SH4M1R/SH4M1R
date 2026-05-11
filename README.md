@@ -1,4 +1,4 @@
-<h1 align="center">Hola 👋, soy Juan Pablo Inoñán Zegarra</h1>
+<h1 align="center">Hola 👋, soy Juan Pablo Inoñan Zegarra</h1>
 
 <h3 align="center">
 💻 Estudiante de Ingeniería de Software
@@ -33,7 +33,7 @@ Desarrollo Full Stack • Web • Mobile • UI/UX
 ## 🛠️ Tecnologías
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,java,spring,php,laravel,mysql,tailwind,html,css,js,git,github,vscode,androidstudio,docker,figma" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,java,spring,php,laravel,mysql,tailwind,bootstrap,html,css,js,git,github,vscode,androidstudio,docker,figma" />
 </p>
 
 ---
@@ -99,23 +99,6 @@ Sistema Full Stack con intranet administrativa y aplicación móvil desarrollada
 
 ---
 
-## 📊 Estadísticas GitHub
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=SH4M1R&show_icons=true&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-</p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SH4M1R&layout=compact&theme=tokyonight&hide_border=true"
-    height="180"
-  />
-</p>
-
----
 
 ## 🌎 Conectemos
 
