@@ -129,7 +129,7 @@ Sistema Full Stack con intranet administrativa y aplicación móvil desarrollada
 
 <p align="center">
 
-<a href="mailto:jpishaz122@gmail.com">
+<a href="mailto:jpshaiz123@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
